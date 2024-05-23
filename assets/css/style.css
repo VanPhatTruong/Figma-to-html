@@ -471,3 +471,11 @@ a {
   border-radius: 26px;
   background: var(--primary-color);
 }
+/* feature2 */
+.features-2nd .content {
+  width: 49%;
+}
+.features-2nd .images img {
+  width: 470px;
+  height: 440px;
+}
